@@ -2,6 +2,10 @@
 
 Repository for Crew C - Differential Evolution
 
+### Git branch handling
+
+Please always create sub-branches of your corresponding group branch for every new feature/function/bugfix you make: ```prog2/feature/nameOfFeature```
+
 ## 1. Project organization
 
 To get a better sense of how your files should be organized, here's a simplified structure of our Python project:
@@ -10,9 +14,8 @@ To get a better sense of how your files should be organized, here's a simplified
 DiffEv
 ├── docs
 │   └── doc.md
-├── name_of_your_project
-│   ├── __init__.py
-│   └── code.py
+├── task_name
+│   ├── ...
 ├── tests
 │   └── test_code.py
 ├── .gitignore
@@ -26,7 +29,7 @@ DiffEv
 
 ### 2.1 Prerequisites
 
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+TBD
 
 ### 2.2 Setting up Dev
 
