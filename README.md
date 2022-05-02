@@ -2,9 +2,11 @@
 
 Repository for Crew C - Differential Evolution
 
-### Git branch handling
+## Git branch handling
 
 Please always create sub-branches of your corresponding group branch for every new feature/function/bugfix you make: ```prog2/feature/nameOfFeature```
+
+To do so, click on "create a new branch" in the corresponding task you're going to work on. That way, the branch is automatically linked to that task.
 
 ## 1. Project organization
 
