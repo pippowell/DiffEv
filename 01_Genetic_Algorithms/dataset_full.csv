@@ -1,0 +1,10 @@
+ID,Name,Gender,Preferred language,Majors,Level of ambition,Preferred meeting place,Personality type,Best friend,Preferred day
+3,Andrea Dreher,Female,Any,"('NS', 'PHIL')",Medium,In person,ESTP,Mathias Richter,Wednesday
+4,Marcel Walter,Male,Any,"('CL', 'PHIL')",Very low,In person,INTP,Frank Saenger,Tuesday
+5,Wolfgang Schultz,Male,Any,"('AI', 'CL')",Low,In person,ISTJ,Tom Bauer,Friday
+6,Martina Weissmuller,Female,Any,"('CL', 'NI')",High,Online,ESTJ,Lisa Köhler,Friday
+7,Tom Bauer,Male,German,"('CP', 'PHIL')",Medium,In person,INFP,Wolfgang Schultz,Monday
+8,Melanie Kaestner,Female,English,"('NS', 'PHIL')",High,In person,INTJ,Gabriele Bosch,Thursday
+9,Frank Saenger,Male,Any,"('PHIL', 'NS')",Very low,Online,INFJ,Marcel Walter,Monday
+10,Mathias Richter,Male,Any,"('NS', 'CP')",Very high,In person,ENFP,Andrea Dreher,Thursday
+11,Anna Sommer,Female,English,"('CL', 'AI')",Medium,Online,INFJ,Lisa Köhler,Friday
