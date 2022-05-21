@@ -1,3 +1,5 @@
 pre-commit
 yapf
 pylint
+jupyter
+numpy
