@@ -6,9 +6,10 @@ def dating_fitness(trex: list) -> float:
     :return: float, dating fitness value
     """
     [brain_size, teeth_size, height, weight, camouflage_level, claw_size, aggression] = trex
-
+    if weight == 0:
+        return 0
     value = (brain_size * 200 * 1-(100/(aggression+1))) + \
-            (teeth_size + claw_size)/(teeth_size-claw_size) + \
+            (teeth_size + claw_size)/(teeth_size-claw_size + 1) + \
             (height / weight) - \
             (75 - camouflage_level)
     return value
