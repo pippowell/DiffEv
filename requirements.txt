@@ -3,3 +3,12 @@ yapf
 pylint
 jupyter
 numpy
+random
+pandas
+matplotlib
+ipywidgets
+IPython
+typing
+os
+copy
+math
